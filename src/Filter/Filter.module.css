@@ -1,0 +1,16 @@
+.filterInputLabel {
+  font-size: 20px;
+  color: rgb(17, 159, 224);
+  margin-top: 45px;
+}
+
+.filterInput {
+  font-size: 20px;
+  border-radius: 5px;
+  border-color: rgb(13, 122, 211);
+  width: 210px;
+  height: 45px;
+  margin-bottom: 10px;
+  color: rgb(17, 159, 224);
+  background-color: rgba(108, 188, 99, 0.5);
+}
